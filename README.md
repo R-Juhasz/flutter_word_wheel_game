@@ -1,16 +1,8 @@
+![localhost_55743_](https://github.com/R-Juhasz/flutter_word_wheel_game/assets/127296603/91585828-7902-47df-9237-4d535af3a242)
+![localhost_55743_ (2)](https://github.com/R-Juhasz/flutter_word_wheel_game/assets/127296603/9b408204-9264-42f2-b10c-3a4e91ed76f6)
+![localhost_55743_ (3)](https://github.com/R-Juhasz/flutter_word_wheel_game/assets/127296603/ebe30dd5-4527-4150-9dbe-22292be954fa)
+![localhost_55743_ (1)](https://github.com/R-Juhasz/flutter_word_wheel_game/assets/127296603/843b867c-6df6-4a74-822e-8bbabdfb3d2e)
 # flutter_word_wheel_game
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A word wheel puzzle game i created for a job interview PASSED! 
+Find the words with middle letter to build points the colour bars change withe timer. When the red bar start you have to hurry before you run out of time. The top score is saved and displayed in the main menu
