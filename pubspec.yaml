@@ -1,0 +1,26 @@
+name: flutter_word_wheel_game
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0-190.1.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  english_words: ^4.0.0
+  cupertino_icons: ^1.0.6
+  shared_preferences: ^2.0.0
+  icons_plus: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
