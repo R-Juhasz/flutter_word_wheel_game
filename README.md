@@ -1,6 +1,6 @@
 Word Wheel Game
 Overview
-"Word Wheel Game" is a bespoke mobile app designed to challenge your vocabulary and quick thinking. This game was built as part of an interview process, which I successfully passed, demonstrating my skills in developing unique and interactive applications. The entire game is crafted using Flutter and Custom Painters, with no pre-made images, showcasing a fully custom and dynamic UI. Players must form words from letters arranged in a dynamic wheel, using a specified central letter as part of each word. The game is both fun and educational, enhancing word recognition and cognitive speed.
+"Word Wheel Game" is a bespoke mobile app designed to challenge your vocabulary and quick thinking. This game was built as part of an interview process, which I successfully passed, demonstrating my skills in developing unique and interactive applications. The entire game is crafted using Flutter and Custom Painters, with 1 single pre-made image, showcasing a fully custom and dynamic UI. Players must form words from letters arranged in a dynamic wheel, using a specified central letter as part of each word. The game is both fun and educational, enhancing word recognition and cognitive speed.
 
 Features
 
