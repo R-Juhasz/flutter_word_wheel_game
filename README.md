@@ -3,14 +3,23 @@ Overview
 "Word Wheel Game" is a bespoke mobile app designed to challenge your vocabulary and quick thinking. This game was built as part of an interview process, which I successfully passed, demonstrating my skills in developing unique and interactive applications. The entire game is crafted using Flutter and Custom Painters, with no pre-made images, showcasing a fully custom and dynamic UI. Players must form words from letters arranged in a dynamic wheel, using a specified central letter as part of each word. The game is both fun and educational, enhancing word recognition and cognitive speed.
 
 Features
+
 Dynamic Word Wheels: Each game generates a new word wheel from a predefined list of words, ensuring a unique challenge every time.
+
 Timed Challenges: Games are timed, adding an exciting pressure element. Players must think quickly to maximize their score before time runs out.
+
 Score Tracking: The game tracks scores, allowing players to see their progress and aim to beat their high scores.
+
 Fully Custom UI: No pre-made images are used. All visuals are rendered using custom painters within Flutter, providing a unique visual experience.
+
 Technologies Used
+
 Flutter: The primary framework used for cross-platform mobile app development.
+
 Dart: All game logic and UI components are implemented using Dart.
+
 Custom Painters: Used for drawing the game wheel and other UI elements dynamically, ensuring a completely custom and bespoke user interface.
+
 Installation
 To get started with "Word Wheel Game," clone this repository and run the following commands:
 
